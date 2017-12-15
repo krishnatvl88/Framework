@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11399" started-at="2015-11-02T12:37:58Z" finished-at="2015-11-02T12:38:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11399" started-at="2015-11-02T12:37:58Z" finished-at="2015-11-02T12:38:09Z">
+      <class name="com.actitime.UserTest.UserTest">
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.actitime.UserTest.UserTest@babb1]" name="createUserTest" duration-ms="11386" started-at="2015-11-02T18:07:58Z" finished-at="2015-11-02T18:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.actitime.UserTest.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
